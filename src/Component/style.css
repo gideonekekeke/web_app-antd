@@ -1,0 +1,8 @@
+@media only screen and (max-width: 900px) {
+  .trail {
+  }
+}
+
+.checking:hover {
+  border: 1px solid #09c09e;
+}
